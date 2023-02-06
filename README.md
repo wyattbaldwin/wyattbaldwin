@@ -19,7 +19,7 @@ Hi there! I am a highly technical and process-oriented individual with a passion
 
 ## Skills
 
-- Qualified with: Excel, VBA, and MS Power BI for data analysis and reporting
+- Qualified with: Excel, VBA, MS Power BI and Tableau for data analysis and reporting
 - Proficient in: Python, R, SQL, VBA, JavaScript, and data visualization tools
 - Experience with: AWS, Hadoop, PySpark, S3, SAP, SQLAlchemy, VisualCode, Jupyter Notebook, Photoshop, and Illustrator
 - Skilled in: project management, data analysis, and team leadership
