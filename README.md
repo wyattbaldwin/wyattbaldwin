@@ -1,40 +1,34 @@
-<!--### Hi there 👋
+# Hey, I'm Wyatt 👋
 
-Here are some ideas to get you started:
+**Process automation specialist at Elections Canada. Builder of tools that make messy data behave.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Technical and Process-Oriented Professional
+I work in Financial Systems, where I design and build automation that turns repetitive data workflows into things that actually scale — VBA macros, PowerShell pipelines, SAP integrations, bilingual distribution systems, and Excel tooling built to run across machines without manual installs.
 
-## Introduction
+Outside of work, I build full-stack platforms, tinker with sports analytics models, and serve as President of the World Rock Paper Scissors Association. I'm drawn to projects where data tells a story people aren't seeing yet.
 
-Hi there! I am a highly technical and process-oriented individual with a passion for continuous learning. I possess strong interpersonal skills and a proven track record of managing and improving business processes through the use of various programming languages and applications.
+---
 
-## Skills
+### 🛠️ Tech I Work With
 
-- Qualified with: Excel, VBA, MS Power BI and Tableau for data analysis and reporting
-- Proficient in: Python, R, SQL, VBA, JavaScript, and data visualization tools
-- Experience with: AWS, Hadoop, PySpark, S3, SAP, SQLAlchemy, VisualCode, Jupyter Notebook, Photoshop, and Illustrator
-- Skilled in: project management, data analysis, and team leadership
+**Languages:** Python · VBA · SQL · JavaScript · R · PowerShell  
+**Data & Analytics:** Excel · Power BI · Tableau · Pandas · PySpark · SAP  
+**Web & Mobile:** React Native · Next.js · Supabase · HTML/CSS · D3.js · Flask  
+**Databases:** PostgreSQL · MySQL · MongoDB · SQLite · SQLAlchemy  
+**Infrastructure:** AWS · S3 · Hadoop · Git  
+**Search & Mapping:** Meilisearch · PostGIS · MapBox  
+**Design:** Photoshop · Illustrator
 
-## Contact
+---
 
-Feel free to reach out to me on Github or via email. I would love to connect and collaborate on projects or learn from others in the community.
+### 💡 What I'm Into
 
+- **Process automation** — Building bilingual workflows, parallel processing pipelines, and SAP integrations that work at scale
+- **Consumer data** — Exploring how pricing mechanics, supply chains, and corporate structures affect what people actually pay
+- **Sports analytics** — Designing original models for player evaluation and causal attribution
+- **Content & branding** — Mockumentary scripts, publishing, and web presence strategy
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/wyattbaldwin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mireille nehme" height="30" width="40" /></a>
-</p>
+---
 
+### 📫 Let's Connect
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
-
+<a href="https://linkedin.com/in/wyattbaldwin" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Wyatt Baldwin" height="30" width="40" /></a>
