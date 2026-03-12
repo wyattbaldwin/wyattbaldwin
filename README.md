@@ -1,6 +1,6 @@
 # Hey, I'm Wyatt 👋
 
-**Process automation specialist at Elections Canada. Builder of tools that make messy data behave.**
+**Process automation specialist, I like Building tools that make messy data behave.**
 
 I work in Financial Systems, where I design and build automation that turns repetitive data workflows into things that actually scale — VBA macros, PowerShell pipelines, SAP integrations, bilingual distribution systems, and Excel tooling built to run across machines without manual installs.
 
